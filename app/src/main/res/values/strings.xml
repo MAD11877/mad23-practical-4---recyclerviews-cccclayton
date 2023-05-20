@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week3T04</string>
+    <string name="Follow">Follow</string>
+    <string name="Unfollow">Unfollow</string>
+    <string name="Message">Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
